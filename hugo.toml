@@ -1,13 +1,13 @@
 baseURL = 'https://blog.boreddev.nl/'
 languageCode = 'en-us'
-title = 'BoredDev Blog'
+title = 'boreddevnl'
 theme = "PaperMod"
 
 [menus]
   # 1. The Back Button
   [[menus.main]]
     identifier = "back-to-main"
-    name = "← Back to BoredDev.nl"
+    name = "← Back to Main Site"
     url = "https://boreddev.nl"
     weight = 10
 
