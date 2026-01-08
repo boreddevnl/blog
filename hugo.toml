@@ -1,0 +1,19 @@
+baseURL = 'https://blog.boreddev.nl/'
+languageCode = 'en-us'
+title = 'BoredDev Blog'
+theme = "PaperMod"
+
+[menus]
+  # 1. The Back Button
+  [[menus.main]]
+    identifier = "back-to-main"
+    name = "← Back to BoredDev.nl"
+    url = "https://boreddev.nl"
+    weight = 10
+
+  # 2. Standard Blog Links
+  [[menus.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives"
+    weight = 20
