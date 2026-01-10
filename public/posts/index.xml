@@ -6,14 +6,21 @@
     <description>Recent content in Posts on boreddevnl</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jan 2026 17:12:37 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 23:55:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arduino fun</title>
+      <title>Intro to LLMs: It&#39;s Just Two Files?</title>
+      <link>http://localhost:1313/posts/introtollms/</link>
+      <pubDate>Sat, 10 Jan 2026 23:55:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/introtollms/</guid>
+      <description>A deep dive into how Large Language Models actually work. From &amp;lsquo;zipping&amp;rsquo; the internet to Grandma&amp;rsquo;s napalm recipe.</description>
+    </item>
+    <item>
+      <title>Arduino Fun</title>
       <link>http://localhost:1313/posts/arduinofun/</link>
       <pubDate>Sat, 10 Jan 2026 17:12:37 +0100</pubDate>
       <guid>http://localhost:1313/posts/arduinofun/</guid>
-      <description>This is about a fun computer science project with an interesting twist.. read the post to find out more!</description>
+      <description>A computer science Arduino Project. Read on to see how everything suddenly went wrong!</description>
     </item>
     <item>
       <title>Hello World!</title>
