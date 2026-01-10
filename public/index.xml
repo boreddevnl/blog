@@ -6,8 +6,15 @@
     <description>Recent content on boreddevnl</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jan 2026 23:29:37 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 17:12:37 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arduino Fun</title>
+      <link>http://localhost:1313/posts/arduinofun/</link>
+      <pubDate>Sat, 10 Jan 2026 17:12:37 +0100</pubDate>
+      <guid>http://localhost:1313/posts/arduinofun/</guid>
+      <description>A computer science Arduino Project. Read on to see how everything suddenly went wrong!</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
