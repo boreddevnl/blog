@@ -2,7 +2,7 @@
 title = "An In-Depth Guide to Large Language Models"
 date = '2026-01-11T03:41:31+01:00'
 draft = false
-summary = "A comprehensive exploration of Large Language Models. This guide covers their architecture, training processes, emergent properties, security vulnerabilities, and future directions, complete with detailed explanations of key concepts."
+summary = "A comprehensive exploration of Large Language Models. This guide covers their architecture, training processes, emergent properties, security vulnerabilities, and future directions."
 +++
 
 Welcome to this in-depth guide to Large Language Models (LLMs). If you've ever been curious about what's really going on behind the curtain of models like ChatGPT, you're in the right place. We'll be exploring everything from the fundamental building blocks to the complex security challenges that are shaping the future of this technology.
